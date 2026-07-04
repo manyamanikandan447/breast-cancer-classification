@@ -1,5 +1,3 @@
-# breast-cancer-classification
-
 # Breast Cancer Classification
 
 This project applies supervised learning techniques to the Breast Cancer dataset from sklearn.
